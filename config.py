@@ -31,7 +31,7 @@ DB_URI = os.environ.get("DATABASE_URL", "")
 
 # Username CH & Group
 CHANNEL = os.environ.get("CHANNEL", "gbtktl")
-GROUP = os.environ.get("GROUP", "SharingUserbot")
+GROUP = os.environ.get("GROUP", "Basecampsupport")
 
 # ID dari Channel Atau Group Untuk Wajib Subscribenya
 FORCE_SUB_CHANNEL1 = int(os.environ.get("FORCE_SUB_CHANNEL1", "0"))
